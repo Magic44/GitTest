@@ -2,3 +2,4 @@
 123456 master test
 newHot-fix test
 
+GitHub Commit Test
