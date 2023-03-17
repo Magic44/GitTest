@@ -3,3 +3,5 @@
 newHot-fix test
 
 GitHub Commit Test
+
+changed by project2
